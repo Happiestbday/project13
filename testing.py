@@ -1,0 +1,1 @@
+print("Hellow all in Devops class")
